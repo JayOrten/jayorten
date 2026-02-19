@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180">
+  <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+  <text x="45" y="18" fill="#c9d1d9" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Cumulative papers read</text>
+  <polygon points="45,150 45.0,30.0 385,150" fill="#238636" opacity="0.3"/>
+  <polyline points="45.0,30.0" fill="none" stroke="#39d353" stroke-width="2"/>
+  <text x="45" y="168" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">Feb 2026</text>
+  <text x="385" y="168" text-anchor="end" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">Feb 2026</text>
+  <text x="40" y="150" text-anchor="end" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">0</text>
+  <text x="40" y="35" text-anchor="end" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">2</text>
+</svg>

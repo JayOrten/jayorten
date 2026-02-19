@@ -1,4 +1,4 @@
-# jayorten
+# {{ username }}
 
 ## Papers Read
 
@@ -29,9 +29,9 @@
 
 | Date | Title | Rating | Tags |
 |------|-------|--------|------|
-| 2026-02-19 | [Attention Is All You Need](http://arxiv.org/abs/1706.03762v7) |  |  |
-| 2026-02-19 | [Attention Is All You Need](http://arxiv.org/abs/1706.03762v7) |  |  |
-
+{% for p in recent_papers -%}
+| {{ p.date_read }} | {% if p.url %}[{{ p.title }}]({{ p.url }}){% else %}{{ p.title }}{% endif %} | {{ "⭐" * (p.rating or 0) }} | {{ p.tags | join(", ") }} |
+{% endfor %}
 
 ---
 

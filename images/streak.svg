@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="60">
+  <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+  <text x="20" y="25" fill="#c9d1d9" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Current streak</text>
+  <text x="20" y="45" fill="#39d353" font-size="20" font-weight="700" font-family="system-ui, -apple-system, sans-serif">1 days</text>
+  <text x="180" y="25" fill="#c9d1d9" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Longest streak</text>
+  <text x="180" y="45" fill="#26a641" font-size="20" font-weight="700" font-family="system-ui, -apple-system, sans-serif">1 days</text>
+</svg>
