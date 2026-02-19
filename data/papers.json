@@ -1,27 +1,5 @@
 [
   {
-    "id": "2725a1541a66",
-    "title": "Attention Is All You Need",
-    "authors": [
-      "Ashish Vaswani",
-      "Noam Shazeer",
-      "Niki Parmar",
-      "Jakob Uszkoreit",
-      "Llion Jones",
-      "Aidan N. Gomez",
-      "Lukasz Kaiser",
-      "Illia Polosukhin"
-    ],
-    "url": "http://arxiv.org/abs/1706.03762v7",
-    "date_read": "2026-02-19",
-    "tags": [],
-    "notes": null,
-    "rating": null,
-    "source": "arxiv",
-    "arxiv_id": "1706.03762",
-    "doi": null
-  },
-  {
     "id": "43c3af5c1280",
     "title": "Attention Is All You Need",
     "authors": [
@@ -101,6 +79,45 @@
     "rating": null,
     "source": "arxiv",
     "arxiv_id": "2501.16496",
+    "doi": null
+  },
+  {
+    "id": "1e32cde09528",
+    "title": "Don't Make Your LLM an Evaluation Benchmark Cheater",
+    "authors": [
+      "Kun Zhou",
+      "Yutao Zhu",
+      "Zhipeng Chen",
+      "Wentong Chen",
+      "Wayne Xin Zhao",
+      "Xu Chen",
+      "Yankai Lin",
+      "Ji-Rong Wen",
+      "Jiawei Han"
+    ],
+    "url": "http://arxiv.org/abs/2311.01964v1",
+    "date_read": "2026-02-19",
+    "tags": [],
+    "notes": null,
+    "rating": null,
+    "source": "arxiv",
+    "arxiv_id": "2311.01964",
+    "doi": null
+  },
+  {
+    "id": "bf89ef952f28",
+    "title": "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT",
+    "authors": [
+      "Shijie Wu",
+      "Mark Dredze"
+    ],
+    "url": "http://arxiv.org/abs/1904.09077v2",
+    "date_read": "2026-02-19",
+    "tags": [],
+    "notes": null,
+    "rating": 3,
+    "source": "arxiv",
+    "arxiv_id": "1904.09077",
     "doi": null
   }
 ]
