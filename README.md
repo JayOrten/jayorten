@@ -1,6 +1,6 @@
-# jayorten
+# Jay Orten
 
-## Papers Read
+## Paper Reading
 
 ![Paper Reading Heatmap](images/heatmap.svg)
 
