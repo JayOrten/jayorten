@@ -1,6 +1,6 @@
 # jayorten
 
-## Papers Reading
+## Papers Read
 
 ![Paper Reading Heatmap](images/heatmap.svg)
 
