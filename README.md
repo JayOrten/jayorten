@@ -30,9 +30,10 @@
 | Date | Title | Rating | Tags |
 |------|-------|--------|------|
 | 2026-02-19 | [Attention Is All You Need](http://arxiv.org/abs/1706.03762v7) |  |  |
-| 2026-02-19 | [Attention Is All You Need](http://arxiv.org/abs/1706.03762v7) |  |  |
 | 2026-02-19 | [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures](http://arxiv.org/abs/2509.14252v2) |  |  |
 | 2026-02-19 | [Open Problems in Mechanistic Interpretability](http://arxiv.org/abs/2501.16496v1) |  |  |
+| 2026-02-19 | [Don't Make Your LLM an Evaluation Benchmark Cheater](http://arxiv.org/abs/2311.01964v1) |  |  |
+| 2026-02-19 | [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](http://arxiv.org/abs/1904.09077v2) | ⭐⭐⭐ |  |
 
 
 ---

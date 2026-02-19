@@ -3,9 +3,9 @@
   <text x="40" y="18" fill="#c6d0f5" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Papers per month (2026)</text>
   <rect x="40" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>J: 0</title></rect>
   <text x="54" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
-  <rect x="74" y="30" width="28" height="120" rx="3" fill="#8caaee"><title>F: 4</title></rect>
+  <rect x="74" y="30" width="28" height="120" rx="3" fill="#8caaee"><title>F: 5</title></rect>
   <text x="88" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">F</text>
-  <text x="88" y="26" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">4</text>
+  <text x="88" y="26" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">5</text>
   <rect x="108" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>M: 0</title></rect>
   <text x="122" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">M</text>
   <rect x="142" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>A: 0</title></rect>
