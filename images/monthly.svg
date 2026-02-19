@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="468" height="190">
-  <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
-  <text x="40" y="18" fill="#c9d1d9" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Papers per month (2026)</text>
-  <rect x="40" y="150" width="28" height="0" rx="3" fill="#238636"><title>J: 0</title></rect>
-  <text x="54" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
-  <rect x="74" y="30" width="28" height="120" rx="3" fill="#238636"><title>F: 2</title></rect>
-  <text x="88" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">F</text>
-  <text x="88" y="26" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">2</text>
-  <rect x="108" y="150" width="28" height="0" rx="3" fill="#238636"><title>M: 0</title></rect>
-  <text x="122" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">M</text>
-  <rect x="142" y="150" width="28" height="0" rx="3" fill="#238636"><title>A: 0</title></rect>
-  <text x="156" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">A</text>
-  <rect x="176" y="150" width="28" height="0" rx="3" fill="#238636"><title>M: 0</title></rect>
-  <text x="190" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">M</text>
-  <rect x="210" y="150" width="28" height="0" rx="3" fill="#238636"><title>J: 0</title></rect>
-  <text x="224" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
-  <rect x="244" y="150" width="28" height="0" rx="3" fill="#238636"><title>J: 0</title></rect>
-  <text x="258" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
-  <rect x="278" y="150" width="28" height="0" rx="3" fill="#238636"><title>A: 0</title></rect>
-  <text x="292" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">A</text>
-  <rect x="312" y="150" width="28" height="0" rx="3" fill="#238636"><title>S: 0</title></rect>
-  <text x="326" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">S</text>
-  <rect x="346" y="150" width="28" height="0" rx="3" fill="#238636"><title>O: 0</title></rect>
-  <text x="360" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">O</text>
-  <rect x="380" y="150" width="28" height="0" rx="3" fill="#238636"><title>N: 0</title></rect>
-  <text x="394" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">N</text>
-  <rect x="414" y="150" width="28" height="0" rx="3" fill="#238636"><title>D: 0</title></rect>
-  <text x="428" y="166" text-anchor="middle" fill="#8b949e" font-size="10" font-family="system-ui, -apple-system, sans-serif">D</text>
+  <rect width="100%" height="100%" fill="#303446" rx="6"/>
+  <text x="40" y="18" fill="#c6d0f5" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Papers per month (2026)</text>
+  <rect x="40" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>J: 0</title></rect>
+  <text x="54" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
+  <rect x="74" y="30" width="28" height="120" rx="3" fill="#8caaee"><title>F: 2</title></rect>
+  <text x="88" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">F</text>
+  <text x="88" y="26" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">2</text>
+  <rect x="108" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>M: 0</title></rect>
+  <text x="122" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">M</text>
+  <rect x="142" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>A: 0</title></rect>
+  <text x="156" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">A</text>
+  <rect x="176" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>M: 0</title></rect>
+  <text x="190" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">M</text>
+  <rect x="210" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>J: 0</title></rect>
+  <text x="224" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
+  <rect x="244" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>J: 0</title></rect>
+  <text x="258" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">J</text>
+  <rect x="278" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>A: 0</title></rect>
+  <text x="292" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">A</text>
+  <rect x="312" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>S: 0</title></rect>
+  <text x="326" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">S</text>
+  <rect x="346" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>O: 0</title></rect>
+  <text x="360" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">O</text>
+  <rect x="380" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>N: 0</title></rect>
+  <text x="394" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">N</text>
+  <rect x="414" y="150" width="28" height="0" rx="3" fill="#8caaee"><title>D: 0</title></rect>
+  <text x="428" y="166" text-anchor="middle" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">D</text>
 </svg>
