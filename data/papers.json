@@ -119,5 +119,37 @@
     "source": "arxiv",
     "arxiv_id": "1904.09077",
     "doi": null
+  },
+  {
+    "id": "8783f5cf5b80",
+    "title": "Fundamental Limitations of Alignment in Large Language Models",
+    "authors": [
+      "Yotam Wolf",
+      "Noam Wies",
+      "Oshri Avnery",
+      "Yoav Levine",
+      "Amnon Shashua"
+    ],
+    "url": "http://arxiv.org/abs/2304.11082v6",
+    "date_read": "2026-02-23",
+    "tags": [],
+    "notes": null,
+    "rating": 5,
+    "source": "arxiv",
+    "arxiv_id": "2304.11082",
+    "doi": null
+  },
+  {
+    "id": "93039dee57e2",
+    "title": "Comparing Automatic and Human Evaluation of NLG Systems",
+    "authors": [],
+    "url": null,
+    "date_read": "2026-02-23",
+    "tags": [],
+    "notes": null,
+    "rating": 3,
+    "source": "manual",
+    "arxiv_id": null,
+    "doi": null
   }
 ]
