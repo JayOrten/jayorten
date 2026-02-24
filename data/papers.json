@@ -151,5 +151,23 @@
     "source": "manual",
     "arxiv_id": null,
     "doi": null
+  },
+  {
+    "id": "70fab70d8c10",
+    "title": "Cross-Lingual Ability of Multilingual BERT: An Empirical Study",
+    "authors": [
+      "Karthikeyan K",
+      "Zihan Wang",
+      "Stephen Mayhew",
+      "Dan Roth"
+    ],
+    "url": "http://arxiv.org/abs/1912.07840v2",
+    "date_read": "2026-02-24",
+    "tags": [],
+    "notes": null,
+    "rating": 4,
+    "source": "arxiv",
+    "arxiv_id": "1912.07840",
+    "doi": null
   }
 ]
