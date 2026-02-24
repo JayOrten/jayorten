@@ -29,6 +29,7 @@
 
 | Date | Title | Rating | Tags |
 |------|-------|--------|------|
+| 2026-02-24 | [Cross-Lingual Ability of Multilingual BERT: An Empirical Study](http://arxiv.org/abs/1912.07840v2) | ⭐⭐⭐⭐ |  |
 | 2026-02-23 | [Fundamental Limitations of Alignment in Large Language Models](http://arxiv.org/abs/2304.11082v6) | ⭐⭐⭐⭐⭐ |  |
 | 2026-02-23 | Comparing Automatic and Human Evaluation of NLG Systems | ⭐⭐⭐ |  |
 | 2026-02-19 | [Attention Is All You Need](http://arxiv.org/abs/1706.03762v7) |  |  |
