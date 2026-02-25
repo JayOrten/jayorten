@@ -169,5 +169,23 @@
     "source": "arxiv",
     "arxiv_id": "1912.07840",
     "doi": null
+  },
+  {
+    "id": "e563256a0f23",
+    "title": "LLMs Get Lost In Multi-Turn Conversation",
+    "authors": [
+      "Philippe Laban",
+      "Hiroaki Hayashi",
+      "Yingbo Zhou",
+      "Jennifer Neville"
+    ],
+    "url": "http://arxiv.org/abs/2505.06120v1",
+    "date_read": "2026-02-25",
+    "tags": [],
+    "notes": null,
+    "rating": 5,
+    "source": "arxiv",
+    "arxiv_id": "2505.06120",
+    "doi": null
   }
 ]
