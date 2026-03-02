@@ -29,6 +29,7 @@
 
 | Date | Title | Rating | Tags |
 |------|-------|--------|------|
+| 2026-03-02 | [ProsocialDialog: A Prosocial Backbone for Conversational Agents](http://arxiv.org/abs/2205.12688v2) | ⭐⭐⭐⭐ |  |
 | 2026-02-25 | [LLMs Get Lost In Multi-Turn Conversation](http://arxiv.org/abs/2505.06120v1) | ⭐⭐⭐⭐⭐ |  |
 | 2026-02-24 | [Cross-Lingual Ability of Multilingual BERT: An Empirical Study](http://arxiv.org/abs/1912.07840v2) | ⭐⭐⭐⭐ |  |
 | 2026-02-23 | [Fundamental Limitations of Alignment in Large Language Models](http://arxiv.org/abs/2304.11082v6) | ⭐⭐⭐⭐⭐ |  |
