@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="180">
   <rect width="100%" height="100%" fill="#303446" rx="6"/>
   <text x="45" y="18" fill="#c6d0f5" font-size="13" font-weight="600" font-family="system-ui, -apple-system, sans-serif">Cumulative papers read</text>
-  <polygon points="45,150 45.0,90.0 73.3,90.0 101.7,90.0 130.0,90.0 158.3,66.0 186.7,54.0 215.0,42.0 243.3,42.0 271.7,42.0 300.0,42.0 328.3,42.0 356.7,30.0 385.0,30.0 385,150" fill="#8caaee" opacity="0.3"/>
-  <polyline points="45.0,90.0 73.3,90.0 101.7,90.0 130.0,90.0 158.3,66.0 186.7,54.0 215.0,42.0 243.3,42.0 271.7,42.0 300.0,42.0 328.3,42.0 356.7,30.0 385.0,30.0" fill="none" stroke="#a6d189" stroke-width="2"/>
+  <polygon points="45,150 45.0,90.0 71.2,90.0 97.3,90.0 123.5,90.0 149.6,66.0 175.8,54.0 201.9,42.0 228.1,42.0 254.2,42.0 280.4,42.0 306.5,42.0 332.7,30.0 358.8,30.0 385.0,30.0 385,150" fill="#8caaee" opacity="0.3"/>
+  <polyline points="45.0,90.0 71.2,90.0 97.3,90.0 123.5,90.0 149.6,66.0 175.8,54.0 201.9,42.0 228.1,42.0 254.2,42.0 280.4,42.0 306.5,42.0 332.7,30.0 358.8,30.0 385.0,30.0" fill="none" stroke="#a6d189" stroke-width="2"/>
   <text x="45" y="168" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">Feb 2026</text>
   <text x="385" y="168" text-anchor="end" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">Mar 2026</text>
   <text x="40" y="150" text-anchor="end" fill="#a5adce" font-size="10" font-family="system-ui, -apple-system, sans-serif">0</text>
